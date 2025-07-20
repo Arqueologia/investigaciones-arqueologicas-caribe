@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Investigaciones Arqueológicas Caribe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Investigaciones Arqueológicas Caribe</h1>
+    <p>Servicios Profesionales en Arqueología y Patrimonio Cultural en Puerto Rico</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre nosotros</h2>
+      <p>Somos arqueólogos dedicados a la conservación del patrimonio cultural en Puerto Rico y el Caribe. Nuestra labor se enfoca en asesorar proyectos de infraestructura para asegurar que respeten y valoren los vestigios históricos que enriquecen nuestra identidad.</p>
+    </section>
+
+    <section>
+      <h2>Servicios</h2>
+      <ul>
+        <li>Evaluaciones de impacto cultural</li>
+        <li>Asesoría técnica y legal para construcciones</li>
+        <li>Documentación de hallazgos arqueológicos</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contacto</h2>
+      <p>Correo electrónico: dra@investigacionescaribe.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Investigaciones Arqueológicas Caribe | Puerto Rico</p>
+  </footer>
+</body>
+</html>
